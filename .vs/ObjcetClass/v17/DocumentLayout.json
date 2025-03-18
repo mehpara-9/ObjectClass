@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|c:\\users\\admin\\desktop\\c#\\new folder\\objcetclass\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|c:\\users\\admin\\desktop\\c#\\new folder\\objcetclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|c:\\users\\admin\\desktop\\c#\\new folder\\objcetclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|c:\\users\\admin\\desktop\\c#\\new folder\\objcetclass\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|solutionrelative:bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|c:\\users\\admin\\desktop\\c#\\new folder\\objcetclass\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F99ECF-D0AC-4025-838E-3AADD49EA47F}|ObjcetClass.csproj|solutionrelative:bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Bird.cs",
+              "RelativeDocumentMoniker": "Bird.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Bird.cs",
+              "RelativeToolTip": "Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:14:59.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Bear.cs",
+              "RelativeDocumentMoniker": "Bear.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Bear.cs",
+              "RelativeToolTip": "Bear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:14:30.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:13:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:12:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\ObjcetClass\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:11:49.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
