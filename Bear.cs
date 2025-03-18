@@ -9,6 +9,5 @@ namespace ObjcetClass
     public class Bear:Animal
     {
         public bool IsWild = true;
-
     }
 }
