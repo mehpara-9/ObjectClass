@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\bin\Debug\net8.0\ObjcetClass.exe
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\bin\Debug\net8.0\ObjcetClass.deps.json
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\bin\Debug\net8.0\ObjcetClass.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\bin\Debug\net8.0\ObjcetClass.dll
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\bin\Debug\net8.0\ObjcetClass.pdb
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ObjcetClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ObjcetClass.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ObjcetClass.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ObjcetClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ObjcetClass.sourcelink.json
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ObjcetClass.dll
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\refint\ObjcetClass.dll
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ObjcetClass.pdb
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ObjcetClass.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\New folder\ObjcetClass\obj\Debug\net8.0\ref\ObjcetClass.dll
